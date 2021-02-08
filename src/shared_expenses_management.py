@@ -27,7 +27,7 @@ class Transaction:
     
     :param name: identifier.
     :param amount: int/float.
-    :param payee: Member identifyer.
+    :param payee: Member identifier.
     
     """
     def __init__(self, name, amount, payee):
