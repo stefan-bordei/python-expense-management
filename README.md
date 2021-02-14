@@ -1,9 +1,9 @@
 # Shared expenses tracking and management.
-*Implementation of a basic shared expanses tracker and management system in python.*
+*Implementation of a basic shared expenses tracker and management system in Python.*
 ## Use
 
 - Create participants
-- Create event
+- Create events
 - Add transactions
 - Reconcile
 
